@@ -33,7 +33,7 @@ use Syscodes\Dotenv\Repository\RepositoryCreator;
  * 
  * @author Alexander Campo <jalexcam@gmail.com>
  */
-class BootDetectEnvironment
+class BootDetectEnvironment 
 {
     /**
      * The application implementation.
