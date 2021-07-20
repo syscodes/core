@@ -186,7 +186,7 @@ class Application extends Container implements ApplicationContract
      * 
      * @return string
      */
-    public function version(): string
+    public function version()
     {
         return Version::RELEASE;
     }
