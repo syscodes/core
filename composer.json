@@ -17,17 +17,17 @@
 	"require": {
 		"php": "^7.4|^8.0",
 		"psr/log": "^1.1.3",
-		"syscodes/collections": "^0.7.5",
-		"syscodes/console": "^0.7.5",
-		"syscodes/container": "^0.7.5",
-		"syscodes/contracts": "^0.7.5",
-		"syscodes/database": "^0.7.5",
-		"syscodes/debug": "^0.7.5",
-		"syscodes/events": "^0.7.5",
-		"syscodes/http": "^0.7.5",
-		"syscodes/log": "^0.7.5",
-		"syscodes/routing": "^0.7.5",
-		"syscodes/support": "^0.7.5"
+		"syscodes/collections": "^0.7.6",
+		"syscodes/console": "^0.7.6",
+		"syscodes/container": "^0.7.6",
+		"syscodes/contracts": "^0.7.6",
+		"syscodes/database": "^0.7.6",
+		"syscodes/debug": "^0.7.6",
+		"syscodes/events": "^0.7.6",
+		"syscodes/http": "^0.7.6",
+		"syscodes/log": "^0.7.6",
+		"syscodes/routing": "^0.7.6",
+		"syscodes/support": "^0.7.6"
 	},
 	"autoload": {
 		"psr-4": {
