@@ -32,7 +32,10 @@
 	"autoload": {
 		"psr-4": {
 			"Syscodes\\Core\\": ""
-		}
+		},
+		"files": [
+            "helpers.php"
+        ]
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true
